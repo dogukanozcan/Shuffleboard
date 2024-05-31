@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec90b5dcd0d9df94695947723b06251d, type: 3}
+  m_Name: DefaultBoardSkin
+  m_EditorClassIdentifier: 
+  skinName: DefaultBoardSkin
+  bodyMat: {fileID: 2100000, guid: 66da51c766b2db84882479d3e20da5d8, type: 2}
+  borderMat: {fileID: 2100000, guid: 768639369558a9f478fff2b1e881ecd2, type: 2}
+  stripeMat: {fileID: 2100000, guid: ddfb08dae7ffef54da50a095fd8dfd1a, type: 2}

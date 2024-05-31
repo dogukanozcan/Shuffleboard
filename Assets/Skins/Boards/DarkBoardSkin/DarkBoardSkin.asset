@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec90b5dcd0d9df94695947723b06251d, type: 3}
+  m_Name: DarkBoardSkin
+  m_EditorClassIdentifier: 
+  skinName: DarkBoardSkin
+  bodyMat: {fileID: 2100000, guid: 5d5b1c284bc55504eaaaffe553d72e04, type: 2}
+  borderMat: {fileID: 2100000, guid: ed7a16937f984804689b57a3ededc14e, type: 2}
+  stripeMat: {fileID: 2100000, guid: 25944c89f59b9f04d920735bdc749dee, type: 2}
